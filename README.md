@@ -1,3 +1,5 @@
+## Hecho por: Santiago Cordoba Y Santiago Silva
+
 ## Control de Hilos con Wait/Notify en PrimeFinder
 
 Explicacion desarrollo ejercicio :
